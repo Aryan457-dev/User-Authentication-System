@@ -183,6 +183,3 @@ This project is intended for educational and learning purposes.
 ## 👨‍💻 Author
 
 **Aryan Dabholkar**
-
-- GitHub: https://github.com/Aryan457-dev
-- LinkedIn: https://www.linkedin.com/in/aryan-dabholkar-3b6263286
